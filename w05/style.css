@@ -1,0 +1,6 @@
+#pyramid {
+  width: 500px;
+  border-left: 500px dotted transparent;
+  border-right: 250px solid transparent;
+  border-bottom: 100px solid red;
+}

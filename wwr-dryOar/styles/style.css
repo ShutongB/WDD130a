@@ -1,0 +1,146 @@
+#content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+#hero-msg h1 {
+  text-align: center;
+}
+#hero-msg h4 {
+  text-align: center;
+}
+.hero-img {
+  width: 100%;
+}
+.button-box {
+  text-align: center;
+}
+main section {
+  text-align: center;
+}
+h4 {
+  color: black;
+}
+
+#background {
+  height: 725px;
+  background-color: #f2f2ed;
+}
+
+.mountains {
+  width: max-content;
+}
+.card-img {
+  width: 300px;
+}
+.icon {
+  width: 80px;
+  padding-top: 10px;
+}
+
+header {
+  background-color: #242423;
+}
+nav a:hover {
+  background-color: black;
+}
+
+.book:hover,
+.join:hover {
+  background-color: #e8eddf;
+  color: black;
+}
+.msg h2 {
+  background-color: aliceblue;
+  color: black;
+}
+.msg p {
+  background-color: aliceblue;
+  color: black;
+}
+.footer {
+  background-color: antiquewhite;
+  padding: 25px 50px;
+  margin-top: 200px;
+  color: black;
+}
+.footer a:hover {
+  background-color: bisque;
+  color: black;
+}
+nav a {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+  padding: 35px;
+}
+#logo_link {
+  padding-top: 5px;
+}
+.book,
+.join {
+  background-color: hsl(45, 100%, 60%);
+  color: black;
+  text-decoration: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.footer a {
+  background-color: black;
+  color: #c5be9c;
+  text-decoration: none;
+}
+footer p {
+  font-size: 1.2em;
+}
+footer p a:hover {
+  text-decoration: underline;
+}
+.social {
+  width: 50px;
+}
+/*week05 prove.*/
+.home-title {
+  font-family: "Rock Salt", "Bradley Hand", sans-serif;
+  font-size: 2em;
+  margin-top: 10px;
+  color: black;
+}
+.msg p {
+  font-size: 8em;
+  padding-bottom: 15px;
+}
+.msg {
+  background-color: #6f7364;
+  line-height: 1.5em;
+  padding: 35px;
+}
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+h2 {
+  margin: 0;
+}
+footer .social img {
+  padding-top: 15px;
+}
+.rivers-card,
+.camping-card,
+.rapids-card {
+  margin: 200px 0;
+}
+.card-img {
+  border: 10px solid #d9c2a3;
+}
+main section img {
+  box-sizing: border-box;
+}
+.logo {
+  width: 80px;
+}
