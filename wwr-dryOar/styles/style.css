@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Proza+Libre:ital,wght@1,600&family=Raleway:wght@300;400&display=swap");
+
 #content {
   max-width: 1600px;
   margin: 0 auto;
@@ -53,10 +55,7 @@ nav a:hover {
   background-color: aliceblue;
   color: black;
 }
-.msg p {
-  background-color: aliceblue;
-  color: black;
-}
+
 .footer {
   background-color: antiquewhite;
   padding: 25px 50px;
@@ -97,9 +96,7 @@ footer p {
 footer p a:hover {
   text-decoration: underline;
 }
-.social {
-  width: 50px;
-}
+
 /*week05 prove.*/
 .home-title {
   font-family: "Rock Salt", "Bradley Hand", sans-serif;
@@ -110,7 +107,11 @@ footer p a:hover {
 .msg p {
   font-size: 0.8em;
   padding-bottom: 15px;
+
+  background-color: aliceblue;
+  color: black;
 }
+
 .msg {
   background-color: #6f7364;
   line-height: 1.5em;
@@ -122,7 +123,6 @@ body {
   font-size: 22px;
   margin: 0;
   padding: 0;
-  background-color: #ffffff;
 }
 h2 {
   margin: 0;
