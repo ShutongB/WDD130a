@@ -180,13 +180,13 @@ footer .social img {
 .rivers-card,
 .camping-card,
 .rapids-card {
-  margin: 200px;
+  margin: 200px 0;
 }
 .card-img {
   border: 10px solid #d9c2a3;
 }
 .card-img,
-　 .mountains {
+.mountains {
   width: 100%;
 }
 
